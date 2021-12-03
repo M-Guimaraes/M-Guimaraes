@@ -29,7 +29,4 @@
   <a href="https://www.linkedin.com/in/marcelo-guimar%C3%A3es-303913a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ##
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-Guimaraes&repo=github-readme-stats)](https://github.com/M-Guimaraes/github-readme-stats)
-
+ 
