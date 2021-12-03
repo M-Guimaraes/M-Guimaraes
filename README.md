@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcelo Guimarães
 
-- Trabalho como Fullstack developer
-- Sempre estou estudando
+- 💻 Trabalho como Fullstack developer
+- 🤓 Sempre estou estudando
 
 ##
 
